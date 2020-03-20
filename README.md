@@ -1,6 +1,8 @@
 ![Image of GitHub](https://raw.githubusercontent.com/qolbinnadhzifi/qolbinnadhzifi.github.io/master/javascript-inovasi.gif)
 # Welcome on My GitHub Pages
 
+> I want to reach my desire so that everything can be achieved
+
 ### contact
 - Telegram : [https://t.me/qolbunnadhzifu](https://t.me/qolbunnadhzifu) ([@qolbunnadhzifu](https://t.me/qolbunnadhzifu))
 - GitHub : [https://github.com/qolbinnadhzifi](https://github.com/qolbinnadhzifi)
@@ -20,5 +22,3 @@ console.log(abc);
 }
 sad();
 ```
-
-> I want to reach my desire so that everything can be achieved
