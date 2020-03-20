@@ -16,6 +16,7 @@ const people = ["MicroClone","DedSecTL","Cvar1984","Dark Fighter"];
 people.push("Gladys","Dea");
 people.forEach((abc) => {
 console.log(abc);
-});
+ });
 }
+sad();
 ```
