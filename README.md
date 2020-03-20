@@ -1,4 +1,4 @@
-![Image of GitHub](https://octodex.github.com/images/nyantocat.gif)
+![Image of GitHub](https://raw.githubusercontent.com/qolbinnadhzifi/qolbinnadhzifi.github.io/master/javascript-inovasi.gif)
 # Welcome on My GitHub Pages
 
 ### contact
@@ -11,6 +11,11 @@
 - email : [qolbinnadhzifi@gmail.com](https://www.instagram.com/micro_clone)
 
 ```javascript
-const http = require('http');
-const fs = require('fs');
+function sad(){
+const people = ["MicroClone","DedSecTL","Cvar1984","Dark Fighter"];
+people.push("Gladys","Dea");
+people.forEach((abc) => {
+console.log(abc);
+});
+}
 ```
