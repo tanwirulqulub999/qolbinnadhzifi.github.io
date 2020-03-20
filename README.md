@@ -10,7 +10,7 @@
 - Instagram : [https://www.instagram.com/micro_clone](https://www.instagram.com/micro_clone)
 - email : [qolbinnadhzifi@gmail.com](https://www.instagram.com/micro_clone)
 
-```node.js
+```javascript
 const http = require('http');
 const fs = require('fs');
 ```
