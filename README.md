@@ -13,9 +13,9 @@
 - email : [qolbinnadhzifi@gmail.com](https://www.instagram.com/micro_clone)
 
 ```javascript
-function sad(){
-const people = ["MicroClone","DedSecTL","Cvar1984","Dark Fighter"];
-people.push("Gladys","Dea");
+function bhsec(){
+const member = ["DedSecTL","Cvar1984","ITermSec","MicroClone","etc."];
+people.push("CiKu370");
 people.forEach((abc) => {
 console.log(abc);
  });
