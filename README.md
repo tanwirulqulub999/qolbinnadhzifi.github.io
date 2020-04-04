@@ -14,8 +14,8 @@
 
 ```javascript
 function bhsec(){
-const member = ["DedSecTL","Cvar1984","ITermSec","MicroClone","etc."];
-people.push("CiKu370");
+const member = ["DedSecTL","Cvar1984","CiKu370","ITermSec","etc."];
+people.push("MicroClone");
 people.forEach((abc) => {
 console.log(abc);
  });
