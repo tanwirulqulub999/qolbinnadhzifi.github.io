@@ -1,1 +1,22 @@
 
+body{
+	background-color: black;
+	background: url(gambar/10.gif);
+	background-size: cover;
+	font-size: 2vw;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+p{
+	text-align: justify;
+	color: white;
+}
+
+h4{
+	text-align: center;
+	color: #fff;
+}
