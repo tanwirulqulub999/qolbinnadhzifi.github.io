@@ -20,5 +20,5 @@ people.forEach((abc) => {
 console.log(abc);
  });
 }
-sad();
+bhsec();
 ```
